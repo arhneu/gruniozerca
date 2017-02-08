@@ -1,4 +1,4 @@
-# Gruniożerca
+﻿# Gruniożerca
 Gruniożerca -- a simple NES arcade game by Łukasz Kur and Ryszard Brzukała of emunes.pl
 --
 This simple NES game was written for a charity auction and is now available for download as public domain asm source.
